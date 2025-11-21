@@ -1,6 +1,6 @@
 # Ex-05-Creating-a-Warehouse-Application-in-SalesForce.com
-### NAME: SARANYA S.
-### REG NO: 212223220101
+### NAME: JANARTHANAN K
+### REG NO: 212223040072
 ## AIM:
 To create a warehouse application in salesforce.com
 
@@ -66,10 +66,7 @@ Note: Before inserting an image for the logo you need to use the following proce
 ### Step 10: A new app will be created and displayed
 
 
-
 ![ex2-10](https://github.com/DrMalathiSaravanan/Ex-02-Creating-a-Warehouse-Application-in-SalesForce.com/assets/139700114/9be0d550-d6ad-434e-82bb-74f9c05bfd2f)
-
-
 
 
 ## RESULT:
